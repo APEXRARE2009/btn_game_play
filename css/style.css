@@ -60,7 +60,7 @@ body {
 .btn {
   height: 10vw;
   width: 30vw;
-  color: none;
+  color: black;
   background: transparent;
   text-transform: uppercase;
   border: none;
